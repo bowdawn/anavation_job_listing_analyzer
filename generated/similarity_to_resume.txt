@@ -1,0 +1,41 @@
+Top 5 Job Matches:
+1. Job Title: User Interface (UI) Full Stack Developer - Similarity Score: 0.1663
+   Rank: 1
+   Team: Intelligence Community
+   Link: https://jobs.lever.co/anavationllc/152174db-97ad-4f1e-9e93-41e4dbb18f6d
+   Location: Reston, VA
+   Department: AnaVation Job Opportunities
+   Work_type: Full Time
+--------------------------------------------------------------------------------
+2. Job Title: Software Developer 3 - Similarity Score: 0.1480
+   Rank: 2
+   Team: Federal Law Enforcement
+   Link: https://jobs.lever.co/anavationllc/f395e704-e6da-44de-92a7-27f50680fdd0
+   Location: Chantilly, VA
+   Department: AnaVation Job Opportunities
+   Work_type: Full Time
+--------------------------------------------------------------------------------
+3. Job Title: Software Developer 3 - Similarity Score: 0.1478
+   Rank: 3
+   Team: Federal Law Enforcement
+   Link: https://jobs.lever.co/anavationllc/620661b3-6b3e-4276-8750-327c1810e2bb
+   Location: Quantico, VA
+   Department: AnaVation Job Opportunities
+   Work_type: Full Time
+--------------------------------------------------------------------------------
+4. Job Title: Software Developer 4 - Similarity Score: 0.1476
+   Rank: 4
+   Team: Federal Law Enforcement
+   Link: https://jobs.lever.co/anavationllc/c8fd741e-1d10-4032-a2b4-ca35b6096274
+   Location: Chantilly, VA
+   Department: AnaVation Job Opportunities
+   Work_type: Full Time
+--------------------------------------------------------------------------------
+5. Job Title: Software Developer 4 - Similarity Score: 0.1473
+   Rank: 5
+   Team: Federal Law Enforcement
+   Link: https://jobs.lever.co/anavationllc/7ea51ca5-c0f7-4b1a-927f-7d1c1138ce38
+   Location: Quantico, VA
+   Department: AnaVation Job Opportunities
+   Work_type: Full Time
+--------------------------------------------------------------------------------

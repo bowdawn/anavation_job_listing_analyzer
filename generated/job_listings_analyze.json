@@ -1,0 +1,24 @@
+{
+    "total_jobs": 50,
+    "jobs_by_team": {
+        "Corporate": 2,
+        "DOD": 9,
+        "Federal Law Enforcement": 15,
+        "Homeland Security": 2,
+        "Intelligence Community": 22
+    },
+    "jobs_by_location": {
+        "Chantilly, VA": 13,
+        "Fort Belvoir, VA": 9,
+        "Quantico, VA": 9,
+        "Washington, DC": 1,
+        "Sterling, VA": 1,
+        "Reston, VA": 12,
+        "Annapolis Junction, MD": 1,
+        "Linthicum Heights, MD": 3,
+        "Fort Meade, MD": 1
+    },
+    "jobs_by_work_type": {
+        "Full Time": 50
+    }
+}
